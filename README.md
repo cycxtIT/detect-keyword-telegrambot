@@ -1,6 +1,6 @@
 # Note
 Telegram bot to detect keywords in telegram chats.
-This bot depens on telepot (Link below)
+//This bot depens on telepot (Link below)
 https://github.com/nickoala/telepot
 Install telepot by command
 pip install telepot
