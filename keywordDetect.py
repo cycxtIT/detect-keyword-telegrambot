@@ -82,7 +82,7 @@ def main():
     while True:
         time.sleep(10)
 
-bot = telepot.Bot("TOKEN")
+bot = telepot.Bot("5045605615:AAEj0U8HQtbVPEZnyik3pYfeQNlfNHj3eN8")
 
 if __name__ == "__main__":
     main()
